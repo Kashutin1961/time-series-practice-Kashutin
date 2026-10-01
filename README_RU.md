@@ -69,3 +69,5 @@ time-series-xgboost_Kashutin.ipynb
 
 Автор
 Евгений Кашутин
+GitHub: https://github.com/Kashutin1961 (github.com in Bing)  
+SkillFactory DS Course — Module 15 Practical Work
